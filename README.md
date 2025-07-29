@@ -7,14 +7,14 @@ Welcome to my collection of Python projects, scripts, and experiments. This repo
 
 ## 📌 Table of Contents
 
-- [About This Repo](#about-this-repo)
-- [Project Highlights](#project-highlights)
-- [Technologies Used](#technologies-used)
-- [How to Run the Code](#how-to-run-the-code)
-- [Directory Structure](#directory-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [About This Repo](#-about-this-repo)
+- [Project Highlights](#-project-highlights)
+- [Technologies Used](#-technologies-used)
+- [How to Run the Code](#-how-to-run-the-code)
+- [Directory Structure](#-directory-structure)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#-contact)
 
 ---
 
